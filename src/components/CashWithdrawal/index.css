@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.main-balance-container {
+  width: 60%;
+  height: 70%;
+  padding: 20px;
+}
+.profile-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.profile-icon-container {
+  background-color: #c7d2fe;
+  width: 70px;
+  height: 70px;
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+}
+.profile-icon {
+  font-size: 40px;
+  color: #7c3aed;
+}
+.profile-name {
+  color: #d4d2db;
+  font-family: 'Roboto';
+  font-size: 20px;
+  margin-left: 30px;
+}
